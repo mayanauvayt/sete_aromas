@@ -444,7 +444,7 @@ a {
 
 .botao {
     display: inline-block;
-    background-color: #b29aea;
+    background-color: #af90f7;
     color: white;
     padding: 12px 24px;
     text-decoration: none;
@@ -453,7 +453,7 @@ a {
 }
 
 .botao:hover {
-    background-color: #9d77f7;
+    background-color: #8a64c7;
 }
 
 /* =========================================================
